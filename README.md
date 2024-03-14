@@ -20,7 +20,7 @@
 <a href="https://instagram.com/proto_types_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="proto_types_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/a1_learner" target="blank"><img align="center" src="https://icons8.com/icon/vAtJFm3hwtQw/codechef" alt="a1_learner" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishsutar1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishsutar1210" height="30" width="40" /></a>
-<a href="https://www.codeforces.com/profiles/ashishsutar1210" target="blank"><img align="center" src="https://icons8.com/icon/GO78dOMqYNlA/codeforces.-programming-competitions-and-contests%2C-programming-community." alt="ashishsutar1210" height="30" width="40" /></a>
+<a href="https://www.codeforces.com/profiles/ashishsutar1210" target="blank"><img align="center" src="https://icons8.com/icon/GO78dOMqYNlA/codeforces.-programming-competitions-and-contests" alt="ashishsutar1210" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
