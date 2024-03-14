@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashish Sutar <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC"></a></p> </h1>
+<h1 align="center">Hi 👋, I'm Ashish Sutar <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="30"> </h1>
 <h3 align="center">Third Year B.Tech I.T. student</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/a935d7cacf17663f8bd18f49290abc1f/43e72218d5e4fdeb-5e/s1280x1920/4a86eeb2b099cc32f7c1e64663716aaeb364ba1c.gifv">
 
 - 🌱 I’m currently exploring **Web Development**
 
