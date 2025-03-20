@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashish Sutar <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="30"> </h1>
-<h3 align="center">Third Year B.Tech I.T. student</h3>
+<h3 align="center">Final Year B.Tech I.T. student</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/a935d7cacf17663f8bd18f49290abc1f/43e72218d5e4fdeb-5e/s1280x1920/4a86eeb2b099cc32f7c1e64663716aaeb364ba1c.gifv">
 
 - 🌱 I’m currently exploring **Web Development**
 
 - 📝 Check out my content on Instagram [https://www.instagram.com/ashishsutar1210/](https://www.instagram.com/ashishsutar1210/)
 
-- 💬 Ask me about **C, CPP, NodeJS, VueJS**
+- 💬 Ask me about **C, CPP, NodeJS, ReactJS**
 
 - 📫 How to reach me **ashishashoksutar.1@gmail.com**
 
