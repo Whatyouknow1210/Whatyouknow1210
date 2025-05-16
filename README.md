@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently exploring **Web Development**
 
-- 📝 Check out my content on Instagram [https://www.instagram.com/ashishsutar1210/](https://www.instagram.com/ashishsutar1210/)
+- 📝 Check out my content on X [https://www.x.com/ashishsutar1210/](https://www.x.com/ashishsutar1210/)
 
 - 💬 Ask me about **C, CPP, NodeJS, ReactJS**
 
